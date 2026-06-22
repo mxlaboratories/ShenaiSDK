@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ShenaiSDK",
-            url: "https://packages.shen.ai/shenai-sdk/releases/v3.1.2/ios/ShenaiSDK.xcframework.zip",
-            checksum: "936aacf3da034ba20e1b84eb8738835495cdb8772fe1c4d544b8a0f49110e966"
+            url: "https://packages.shen.ai/shenai-sdk/releases/v3.1.3/ios/ShenaiSDK.xcframework.zip",
+            checksum: "1cf6d7f8f81d16107e94c8e95de39eb97ddaf3ecbfa981f5ab4f7624cd04d8a0"
         )
     ]
 )
